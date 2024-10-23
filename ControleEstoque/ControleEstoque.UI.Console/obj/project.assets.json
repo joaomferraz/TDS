@@ -46,19 +46,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jmach\\.nuget\\packages\\": {}
+    "C:\\Users\\rafae\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ControleEstoque.UI.Console\\ControleEstoque.UI.Console.csproj",
+      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.UI.Console\\ControleEstoque.UI.Console.csproj",
       "projectName": "ControleEstoque.UI.Console",
-      "projectPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ControleEstoque.UI.Console\\ControleEstoque.UI.Console.csproj",
-      "packagesPath": "C:\\Users\\jmach\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ControleEstoque.UI.Console\\obj\\",
+      "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.UI.Console\\ControleEstoque.UI.Console.csproj",
+      "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.UI.Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jmach\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -72,11 +72,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ConstroleEstoquePersistenci.Colecao\\ControleEstoque.Persistencia.Colecao.csproj": {
-              "projectPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ConstroleEstoquePersistenci.Colecao\\ControleEstoque.Persistencia.Colecao.csproj"
+            "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ConstroleEstoquePersistenci.Colecao\\ControleEstoque.Persistencia.Colecao.csproj": {
+              "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ConstroleEstoquePersistenci.Colecao\\ControleEstoque.Persistencia.Colecao.csproj"
             },
-            "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj": {
-              "projectPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj"
+            "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj": {
+              "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj"
             }
           }
         }
