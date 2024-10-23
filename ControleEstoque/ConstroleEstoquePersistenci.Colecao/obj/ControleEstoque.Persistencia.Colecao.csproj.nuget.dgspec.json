@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ConstroleEstoquePersistenci.Colecao\\ControleEstoque.Persistencia.Colecao.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ConstroleEstoquePersistenci.Colecao\\ControleEstoque.Persistencia.Colecao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ConstroleEstoquePersistenci.Colecao\\ControleEstoque.Persistencia.Colecao.csproj",
+        "projectName": "ControleEstoque.Persistencia.Colecao",
+        "projectPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ConstroleEstoquePersistenci.Colecao\\ControleEstoque.Persistencia.Colecao.csproj",
+        "packagesPath": "C:\\Users\\jmach\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ConstroleEstoquePersistenci.Colecao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jmach\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj": {
+                "projectPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj",
+        "projectName": "ControleEstoque.Modelo",
+        "projectPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj",
+        "packagesPath": "C:\\Users\\jmach\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\6 semestre\\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\\TDS\\ControleEstoque\\ControleEstoque\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jmach\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

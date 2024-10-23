@@ -1,0 +1,11 @@
+c:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\bin\Debug\net8.0\ControleEstoque.deps.json
+c:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\bin\Debug\net8.0\ControleEstoque.dll
+c:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\bin\Debug\net8.0\ControleEstoque.pdb
+c:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.AssemblyInfoInputs.cache
+c:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.AssemblyInfo.cs
+c:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.csproj.CoreCompileInputs.cache
+c:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.dll
+c:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\refint\ControleEstoque.dll
+c:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.pdb
+c:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ref\ControleEstoque.dll
