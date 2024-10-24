@@ -3,8 +3,8 @@ using ControleEstoque.Modelo.Basicas;
 using ControleEstoque.Persistencia.EFCore.Database.Contexts;
 
 var efDbcontext = new SQLiteEFCoreContexts();
-var repositorioEF = new RepositorioCRUDGenericoEFCore<CategoriaModelo>(efDbcontext);
-repositorioEF.Adicionar(efDbcontext.Categorias, new CategoriaModelo(1, "Higiene", "sabonete"));
+var repositorioEF = new RepositorioCRUDGenericoEFCore<CategoryModel>(efDbcontext);
+repositorioEF.Adicionar(efDbcontext.Categorias, new CategoryModel(1, "Higiene", "sabonete"));
 
 foreach (var categoria in repositorioEF.ObterTodos(efDbcontext.Categorias))
 {

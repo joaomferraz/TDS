@@ -1,16 +1,16 @@
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\bin\Debug\net8.0\ControleEstoque.Persistencia.Colecao.deps.json
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\bin\Debug\net8.0\ControleEstoque.Persistencia.Colecao.dll
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\bin\Debug\net8.0\ControleEstoque.Persistencia.Colecao.pdb
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\bin\Debug\net8.0\ControleEstoque.Modelo.dll
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\bin\Debug\net8.0\ControleEstoque.Modelo.pdb
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ControleEstoque.Persistencia.Colecao.csproj.AssemblyReference.cache
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ControleEstoque.Persistencia.Colecao.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ControleEstoque.Persistencia.Colecao.AssemblyInfoInputs.cache
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ControleEstoque.Persistencia.Colecao.AssemblyInfo.cs
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ControleEstoque.Persistencia.Colecao.csproj.CoreCompileInputs.cache
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ControleEstoque.Persistencia.Colecao.sourcelink.json
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\Controle.E73022F5.Up2Date
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ControleEstoque.Persistencia.Colecao.dll
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\refint\ControleEstoque.Persistencia.Colecao.dll
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ControleEstoque.Persistencia.Colecao.pdb
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ref\ControleEstoque.Persistencia.Colecao.dll
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\bin\Debug\net8.0\ControleEstoque.Persistencia.Colecao.deps.json
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\bin\Debug\net8.0\ControleEstoque.Persistencia.Colecao.dll
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\bin\Debug\net8.0\ControleEstoque.Persistencia.Colecao.pdb
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\bin\Debug\net8.0\ControleEstoque.Modelo.dll
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\bin\Debug\net8.0\ControleEstoque.Modelo.pdb
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ControleEstoque.Persistencia.Colecao.csproj.AssemblyReference.cache
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ControleEstoque.Persistencia.Colecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ControleEstoque.Persistencia.Colecao.AssemblyInfoInputs.cache
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ControleEstoque.Persistencia.Colecao.AssemblyInfo.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ControleEstoque.Persistencia.Colecao.csproj.CoreCompileInputs.cache
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ControleEstoque.Persistencia.Colecao.sourcelink.json
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\Controle.E73022F5.Up2Date
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ControleEstoque.Persistencia.Colecao.dll
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\refint\ControleEstoque.Persistencia.Colecao.dll
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ControleEstoque.Persistencia.Colecao.pdb
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\obj\Debug\net8.0\ref\ControleEstoque.Persistencia.Colecao.dll

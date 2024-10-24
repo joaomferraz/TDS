@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControleEstoque.Persistencia.Colecao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b87e1bbe47f352cbc07984af08a795c1f671e43a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89e64c9541528a26fcb4d8ceecc999479e0e8aae")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControleEstoque.Persistencia.Colecao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControleEstoque.Persistencia.Colecao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

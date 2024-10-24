@@ -17,19 +17,19 @@ namespace ControleEstoque.Persistencia.EFCore.Migrations
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "8.0.10");
 
-            modelBuilder.Entity("ControleEstoque.Modelo.Basicas.CategoriaModelo", b =>
+            modelBuilder.Entity("ControleEstoque.Modelo.Basicas.CategoryModel", b =>
                 {
-                    b.Property<int?>("CategoriaID")
+                    b.Property<int?>("CategoryID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
-                    b.Property<string>("Descricao")
+                    b.Property<string>("Description")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("Nome")
+                    b.Property<string>("Name")
                         .HasColumnType("TEXT");
 
-                    b.HasKey("CategoriaID");
+                    b.HasKey("CategoryID");
 
                     b.ToTable("Categorias");
                 });

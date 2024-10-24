@@ -1,14 +1,14 @@
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\bin\Debug\net8.0\ControleEstoque.Modelo.deps.json
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\bin\Debug\net8.0\ControleEstoque.Modelo.dll
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\bin\Debug\net8.0\ControleEstoque.Modelo.pdb
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.Modelo.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.Modelo.AssemblyInfoInputs.cache
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.Modelo.AssemblyInfo.cs
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.Modelo.csproj.CoreCompileInputs.cache
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.Modelo.dll
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\refint\ControleEstoque.Modelo.dll
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.Modelo.pdb
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ref\ControleEstoque.Modelo.dll
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.Modelo.sourcelink.json
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\bin\Debug\net8.0\ControleEstoque.Modelo.runtimeconfig.json
-C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.Modelo.genruntimeconfig.cache
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque\bin\Debug\net8.0\ControleEstoque.Modelo.deps.json
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque\bin\Debug\net8.0\ControleEstoque.Modelo.runtimeconfig.json
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque\bin\Debug\net8.0\ControleEstoque.Modelo.dll
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque\bin\Debug\net8.0\ControleEstoque.Modelo.pdb
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.Modelo.AssemblyInfoInputs.cache
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.Modelo.AssemblyInfo.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.Modelo.sourcelink.json
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.Modelo.dll
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\refint\ControleEstoque.Modelo.dll
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.Modelo.pdb
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.Modelo.genruntimeconfig.cache
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque\obj\Debug\net8.0\ref\ControleEstoque.Modelo.dll
