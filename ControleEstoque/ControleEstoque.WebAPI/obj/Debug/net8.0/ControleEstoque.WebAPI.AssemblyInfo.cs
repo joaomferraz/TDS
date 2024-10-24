@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControleEstoque.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b46633c3dd4b5f11fbb1a6e6a67761caf5ba45a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e6d5f419e7128ecc5321884895a610339d4a9b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControleEstoque.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControleEstoque.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
