@@ -8,9 +8,9 @@ public class Product
     public decimal Price { get; set; }
     public int QuantityStock { get; set; }
     public Supplier? Supplier { get; set; }
-    public Category? Category { get; set; }
+    public CategoryModel? Category { get; set; }
 
-    public Product(int id, string name, string description, decimal price, int quantityStock, Supplier supplier, Category category)
+    public Product(int id, string name, string description, decimal price, int quantityStock, Supplier supplier, CategoryModel category)
     {
         ProductID = id;
         Name = name;

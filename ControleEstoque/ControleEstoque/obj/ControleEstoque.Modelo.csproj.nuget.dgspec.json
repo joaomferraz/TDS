@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj": {}
+    "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj": {
+    "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj",
+        "projectUniqueName": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj",
         "projectName": "ControleEstoque.Modelo",
-        "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque\\obj\\",
+        "projectPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj",
+        "packagesPath": "C:\\Users\\jmach\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmach\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -4,11 +4,12 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ConstroleEstoque.Persistencia.EFCore.Repositorios;
 
-public class RepositorioCRUDGenericoEFCore<T>(DbContext repositorio) : IRepositorioCRUDGenerico<T> where T : class
+public class RepositorioCRUDGenericoEFCore<T>(DbContext repositorio) : IRepositorioCRUDGenericoEF<T> where T : class
 {
-    public void Adicionar(T entidade)
+    public void Adicionar(object tabela, T entidade)
     {
-        throw new NotImplementedException();
+        (tabela as DbSet<T>)!.Add(entidade);
+        repositorio.SaveChangesAsync();
     }
 
     public void Atualizar(T entidade)
@@ -21,9 +22,10 @@ public class RepositorioCRUDGenericoEFCore<T>(DbContext repositorio) : IReposito
         throw new NotImplementedException();
     }
 
-    public IEnumerable<T> ObterTodos()
+    public IEnumerable<T> ObterTodos(object tabela)
     {
-        throw new NotImplementedException();
+        DbSet<T>? dbsetTabela = tabela as DbSet<T>;
+        return dbsetTabela!.ToList();
     }
 
     public void Remover(T entidade)
