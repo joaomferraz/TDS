@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ControleEstoque.Modelo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ControleEstoque.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e34090d2ed273d88010af47c5a4c6234b05de0e2")]
-[assembly: System.Reflection.AssemblyProductAttribute("ControleEstoque.Modelo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ControleEstoque.Modelo")]
+[assembly: System.Reflection.AssemblyProductAttribute("ControleEstoque.WebAPI")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ControleEstoque.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
