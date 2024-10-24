@@ -1,19 +1,19 @@
-namespace ControleEstoque.Modelo.Basicas;
+namespace ControleEstoque.Model.Model;
 
-public class PositionTitle
+public class PositionTitleModel
 {
     public int PositionID { get; set; }
     public string? Description { get; set; }
     public float BaseSalary { get; set; }
 
-    public PositionTitle(int id, string description, float baseSalary)
+    public PositionTitleModel(int id, string description, float baseSalary)
     {
         PositionID = id;
         Description = description;
         BaseSalary = baseSalary;
     }
 
-    public PositionTitle()
+    public PositionTitleModel()
     {
     }
 
@@ -24,7 +24,7 @@ public class PositionTitle
 
     public override bool Equals(object? obj)
     {
-        if (obj is PositionTitle other)
+        if (obj is PositionTitleModel other)
         {
             return other.PositionID == PositionID;
         }
