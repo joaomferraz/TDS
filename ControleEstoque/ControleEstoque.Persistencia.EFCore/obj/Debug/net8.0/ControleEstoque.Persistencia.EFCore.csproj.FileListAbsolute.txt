@@ -15,3 +15,4 @@ C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLV
 C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque.Persistencia.EFCore\obj\Debug\net8.0\ControleEstoque.Persistencia.EFCore.pdb
 C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque.Persistencia.EFCore\obj\Debug\net8.0\ControleEstoque.Persistencia.EFCore.genruntimeconfig.cache
 C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque.Persistencia.EFCore\obj\Debug\net8.0\ref\ControleEstoque.Persistencia.EFCore.dll
+C:\Users\jmach\OneDrive\Documents\UTFPR\6 semestre\CC56C TECNOLOGIA EM DESENVOLVIMENTO DE SISTEMAS\TDS\ControleEstoque\ControleEstoque.Persistencia.EFCore\obj\Debug\net8.0\ControleEstoque.Persistencia.EFCore.sourcelink.json

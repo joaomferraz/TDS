@@ -1,18 +1,27 @@
 
+using System.ComponentModel.DataAnnotations;
 using System.Reflection.Metadata.Ecma335;
 
 namespace ControleEstoque.Modelo.Basicas;
 
-public class CategoriaModelo(int categoriaID, string nome, string descricao)
+public class CategoriaModelo
 {
+    public int? CategoriaID { get; set; }
+    public string? Nome { get; set; }
+    public string? Descricao { get; set; }
 
+    public CategoriaModelo(int categoriaID, string nome, string descricao)
+    {
+        CategoriaID = categoriaID;
+        Nome = nome;
+        Descricao = descricao;
+    }
 
-    public int? CategoriaID { get; set; } = categoriaID;
-    public string? Nome { get; set; } = nome;
+    public CategoriaModelo(){
 
-    public string? Descricao { get; set; } = descricao;
-    
-public override string ToString()
+    }
+
+    public override string ToString()
     {
         return $"[{CategoriaID}, {Nome}, {Descricao}]";
     }

@@ -1,27 +1,36 @@
-﻿// See https://aka.ms/new-console-template for more information
-using ConstroleEstoque.Persistencia.Colecao.Repositorio;
+﻿using ConstroleEstoque.Persistencia.EFCore.Repositorios;
 using ControleEstoque.Modelo.Basicas;
+using ControleEstoque.Persistencia.EFCore.Database.Contexts;
 
-Console.WriteLine("Hello, World!");
+var efDbcontext = new SQLiteEFCoreContexts();
+var repositorioEF = new RepositorioCRUDGenericoEFCore<CategoriaModelo>(efDbcontext);
+repositorioEF.Adicionar(efDbcontext.Categorias, new CategoriaModelo(1, "Higiene", "sabonete"));
 
-var repositorioColecao = new RepositorioCRUDGenericoColecoes<CategoriaModelo>([]);
-repositorioColecao.Adicionar(new CategoriaModelo(1, "Higiene", "sabonete"));
-try
-{
-    repositorioColecao.Adicionar(new CategoriaModelo(2, "Higiene", "sabonete"));
-    
-}
-catch (Exception e)
-{
-    
-    Console.WriteLine(e.Message);
-}
-
-var categorias = repositorioColecao.ObterTodos();
-foreach (var categoria in categorias)
+foreach (var categoria in repositorioEF.ObterTodos(efDbcontext.Categorias))
 {
     Console.Write(categoria);
 }
+
+// Console.WriteLine("Hello, World!");
+
+// var repositorioColecao = new RepositorioCRUDGenericoColecoes<CategoriaModelo>([]);
+// repositorioColecao.Adicionar(new CategoriaModelo(1, "Higiene", "sabonete"));
+// try
+// {
+//     repositorioColecao.Adicionar(new CategoriaModelo(2, "Higiene", "sabonete"));
+    
+// }
+// catch (Exception e)
+// {
+    
+//     Console.WriteLine(e.Message);
+// }
+
+// var categorias = repositorioColecao.ObterTodos();
+// foreach (var categoria in categorias)
+// {
+//     Console.Write(categoria);
+// }
 
 //CategoriaModelo sabonete = new(1, "Higiene", "sabonete");
 
