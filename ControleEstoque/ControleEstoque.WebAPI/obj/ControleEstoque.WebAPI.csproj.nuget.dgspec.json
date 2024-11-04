@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.WebAPI\\ControleEstoque.WebAPI.csproj": {}
+    "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.WebAPI\\ControleEstoque.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj": {
+    "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj",
+        "projectUniqueName": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj",
         "projectName": "ControleEstoque.EFCore",
-        "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\obj\\",
+        "projectPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj",
+        "packagesPath": "C:\\Users\\jmach\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmach\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj": {
-                "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj"
-              },
-              "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj": {
-                "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj"
+              "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj": {
+                "projectPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj"
               }
             }
           }
@@ -71,6 +68,18 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.1, )"
             }
           },
           "imports": [
@@ -93,17 +102,17 @@
         }
       }
     },
-    "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj": {
+    "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj",
+        "projectUniqueName": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj",
         "projectName": "ControleEstoque.Model",
-        "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.Model\\obj\\",
+        "projectPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj",
+        "packagesPath": "C:\\Users\\jmach\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmach\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -153,17 +162,17 @@
         }
       }
     },
-    "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.WebAPI\\ControleEstoque.WebAPI.csproj": {
+    "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.WebAPI\\ControleEstoque.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.WebAPI\\ControleEstoque.WebAPI.csproj",
+        "projectUniqueName": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.WebAPI\\ControleEstoque.WebAPI.csproj",
         "projectName": "ControleEstoque.WebAPI",
-        "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.WebAPI\\ControleEstoque.WebAPI.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.WebAPI\\obj\\",
+        "projectPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.WebAPI\\ControleEstoque.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\jmach\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmach\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -177,8 +186,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj": {
-                "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj"
+              "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj": {
+                "projectPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj"
               }
             }
           }
@@ -202,6 +211,12 @@
               "target": "Package",
               "version": "[8.0.10, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -222,66 +237,6 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj",
-        "projectName": "ControleEstoque.Modelo",
-        "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque\\ControleEstoque.Modelo.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

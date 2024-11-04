@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "piWbwbJtei4LWsiv3pglYC/igORvjPUNULTqOQLuGno=",
+  "Source": "ControleEstoque.WebAPI",
+  "BasePath": "_content/ControleEstoque.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj": {}
+    "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj": {
+    "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj",
+        "projectUniqueName": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj",
         "projectName": "ControleEstoque.Model",
-        "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\TDS\\ControleEstoque\\ControleEstoque.Model\\obj\\",
+        "projectPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj",
+        "packagesPath": "C:\\Users\\jmach\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmach\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

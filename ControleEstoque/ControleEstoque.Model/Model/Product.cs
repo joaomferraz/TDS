@@ -1,4 +1,4 @@
-namespace ControleEstoque.Modelo.Basicas;
+namespace ControleEstoque.Model.Model;
 
 public class Product
 {

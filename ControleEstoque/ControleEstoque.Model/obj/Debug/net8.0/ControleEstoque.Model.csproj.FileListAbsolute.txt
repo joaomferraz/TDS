@@ -1,0 +1,12 @@
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\obj\Debug\net8.0\ControleEstoque.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\obj\Debug\net8.0\ControleEstoque.Model.AssemblyInfoInputs.cache
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\obj\Debug\net8.0\ControleEstoque.Model.AssemblyInfo.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\obj\Debug\net8.0\ControleEstoque.Model.csproj.CoreCompileInputs.cache
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\obj\Debug\net8.0\ControleEstoque.Model.sourcelink.json
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\bin\Debug\net8.0\ControleEstoque.Model.deps.json
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\bin\Debug\net8.0\ControleEstoque.Model.dll
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\bin\Debug\net8.0\ControleEstoque.Model.pdb
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\obj\Debug\net8.0\ControleEstoque.Model.dll
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\obj\Debug\net8.0\refint\ControleEstoque.Model.dll
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\obj\Debug\net8.0\ControleEstoque.Model.pdb
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\obj\Debug\net8.0\ref\ControleEstoque.Model.dll

@@ -1,6 +1,6 @@
 using System;
 using System.Reflection.Emit;
-using ControleEstoque.Modelo.Basicas;
+using ControleEstoque.Model.Model;
 using Microsoft.EntityFrameworkCore;
 
 namespace ControleEstoque.Persistencia.EFCore.Database.Contexts;
