@@ -3196,11 +3196,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.WebAPI\\ControleEstoque.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.WebAPI\\ControleEstoque.WebAPI.csproj",
       "projectName": "ControleEstoque.WebAPI",
-      "projectPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.WebAPI\\ControleEstoque.WebAPI.csproj",
+      "projectPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.WebAPI\\ControleEstoque.WebAPI.csproj",
       "packagesPath": "C:\\Users\\jmach\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jmach\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3217,8 +3217,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj": {
-              "projectPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj"
+            "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj": {
+              "projectPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj"
             }
           }
         }

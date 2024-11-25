@@ -1,0 +1,15 @@
+–
+ŠC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\obj\Debug\net8.0\ControleEstoque.EFCore.AssemblyInfo.csutf-8ž
+’C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8˜
+ŒC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\obj\Debug\net8.0\ControleEstoque.EFCore.GlobalUsings.g.csutf-8•
+‰C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\20241105170858_AddSupplierTable.Designer.csutf-8–
+ŠC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\ControleEstoqueEFCoreContextModelSnapshot.csutf-8Š
+€C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\20241105170858_AddSupplierTable.csutf-8”
+ˆC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\20241105170414_AddProductTable.Designer.csutf-8ˆ
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\20241105170414_AddProductTable.csutf-8“
+‡C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\20241105162320_AddPersonTable.Designer.csutf-8‡
+~C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\20241105162320_AddPersonTable.csutf-8’
+†C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\20241104170418_InitialCreate.Designer.csutf-8†
+}C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\20241104170418_InitialCreate.csutf-8z
+qC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\IDesignTimeDbContextFactory.csutf-8‡
+~C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\DataContext\ControleEstoqueEFCoreContext.csutf-8

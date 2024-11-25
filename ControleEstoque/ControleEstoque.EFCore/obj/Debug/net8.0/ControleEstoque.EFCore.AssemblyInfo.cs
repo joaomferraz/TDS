@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControleEstoque.EFCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cbb6eb11243d315ed3b1b4c018dac34a16fbb1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bbc6253aa0cebde0ef054321141aa1ec36749af")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControleEstoque.EFCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControleEstoque.EFCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

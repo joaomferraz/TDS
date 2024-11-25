@@ -1,0 +1,78 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.11.0.0",
+        "fileVersion": "4.11.0-3.24468.6 (b4e5d1dd)",
+        "semanticVersion": "4.11.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename interface 'IRepositorioCRUDGenericoEF' to match pascal case naming rules, consider using 'IRepositorioCrudGenericoEf'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/jmach/OneDrive/Documents/UTFPR/TDS/ControleEstoque/ControleEstoque/Intefaces/Repositorios/IRepositorioCRUDGenericoEF.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 18,
+                  "endLine": 5,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename interface 'IRepositorioCRUDGenerico' to match pascal case naming rules, consider using 'IRepositorioCrudGenerico'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/jmach/OneDrive/Documents/UTFPR/TDS/ControleEstoque/ControleEstoque/Intefaces/Repositorios/IRepositorioCRUDGenerico.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 18,
+                  "endLine": 5,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

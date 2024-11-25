@@ -1,0 +1,11 @@
+î
+àC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\obj\Debug\net8.0\ControleEstoque.Model.AssemblyInfo.csutf-8ù
+ëC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8ñ
+äC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\obj\Debug\net8.0\ControleEstoque.Model.GlobalUsings.g.csutf-8l
+cC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\Model\Supplier.csutf-8k
+bC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\Model\Product.csutf-8q
+hC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\Model\PositionTitle.csutf-8l
+cC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\Model\Employee.csutf-8j
+aC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\Model\Person.csutf-8j
+aC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\Model\Client.csutf-8l
+cC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\Model\Category.csutf-8

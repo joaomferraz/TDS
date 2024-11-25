@@ -1,0 +1,2 @@
+﻿C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Persistencia.EFCore\Database.Contexts\SQLiteEFCoreContexts.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Persistencia.EFCore\Repositorios\RepositorioCRUDGenericoEFCore.cs

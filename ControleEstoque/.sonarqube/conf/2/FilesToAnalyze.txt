@@ -1,0 +1,12 @@
+﻿C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\DataContext\ControleEstoqueEFCoreContext.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\IDesignTimeDbContextFactory.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\20241104170418_InitialCreate.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\20241104170418_InitialCreate.Designer.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\20241105162320_AddPersonTable.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\20241105162320_AddPersonTable.Designer.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\20241105170414_AddProductTable.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\20241105170414_AddProductTable.Designer.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\20241105170858_AddSupplierTable.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\20241105170858_AddSupplierTable.Designer.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\Migrations\ControleEstoqueEFCoreContextModelSnapshot.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\utfpr.db

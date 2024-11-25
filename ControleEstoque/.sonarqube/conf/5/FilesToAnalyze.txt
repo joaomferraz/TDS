@@ -1,0 +1,13 @@
+﻿C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\Controller\Category.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\Controller\Person.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\Controller\Product.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\Controller\Supplier.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\Program.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\obj\Debug\net8.0\ControleEstoque.WebAPI.GlobalUsings.g.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\obj\Debug\net8.0\ControleEstoque.WebAPI.AssemblyInfo.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\obj\Debug\net8.0\ControleEstoque.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\appsettings.Development.json
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\appsettings.json
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\ControleEstoque.WebAPI.http
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\Properties\launchSettings.json

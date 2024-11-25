@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj": {}
+    "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj": {
+    "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj",
+        "projectUniqueName": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj",
         "projectName": "ControleEstoque.Model",
-        "projectPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj",
+        "projectPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj",
         "packagesPath": "C:\\Users\\jmach\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\obj\\",
+        "outputPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jmach\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OI/dhQE0hQM=",
+  "dgSpecHash": "2Ez+nHbqXjY=",
   "success": true,
-  "projectFilePath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj",
+  "projectFilePath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jmach\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\jmach\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

@@ -1,0 +1,10 @@
+©
+ùC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\obj\Debug\net8.0\ControleEstoque.WebAPI.MvcApplicationPartsAssemblyInfo.csutf-8ñ
+äC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\obj\Debug\net8.0\ControleEstoque.WebAPI.AssemblyInfo.csutf-8û
+íC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8ò
+åC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\obj\Debug\net8.0\ControleEstoque.WebAPI.GlobalUsings.g.csutf-8f
+]C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\Program.csutf-8r
+iC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\Controller\Supplier.csutf-8q
+hC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\Controller\Product.csutf-8p
+gC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\Controller\Person.csutf-8r
+iC:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\Controller\Category.csutf-8

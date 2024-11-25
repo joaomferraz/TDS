@@ -25,7 +25,7 @@ public class CategoryController : ControllerBase {
     public async Task<IActionResult> GetByID(int categoryID) {
         CategoryModel? category = await context.Categories.FindAsync(categoryID);
         if (category == null) {
-            return NotFound();
+            return NotFound($"Category with ID {categoryID} not found");
         }
         return Ok(category);
     }

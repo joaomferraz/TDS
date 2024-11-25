@@ -1,0 +1,28 @@
+Product projects
+---------------------------------------
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.Model\ControleEstoque.Model.csproj
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque\ControleEstoque.Modelo.csproj
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.EFCore\ControleEstoque.EFCore.csproj
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\ControleEstoque.Persistencia.Colecao.csproj
+C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ControleEstoque.WebAPI\ControleEstoque.WebAPI.csproj
+
+
+Test projects
+---------------------------------------
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

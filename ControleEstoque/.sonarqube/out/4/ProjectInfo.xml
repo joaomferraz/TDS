@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>ControleEstoque.Persistencia.Colecao</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>a60aca0c-29e7-4054-a5ba-e1140a5b349a</ProjectGuid>
+  <FullPath>C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\ConstroleEstoquePersistenci.Colecao\ControleEstoque.Persistencia.Colecao.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\.sonarqube\conf\4\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\.sonarqube\out\4\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\jmach\OneDrive\Documents\UTFPR\TDS\ControleEstoque\.sonarqube\out\4</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net8.0</TargetFramework>
+</ProjectInfo>

@@ -2746,11 +2746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj",
+      "projectUniqueName": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj",
       "projectName": "ControleEstoque.EFCore",
-      "projectPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj",
+      "projectPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\ControleEstoque.EFCore.csproj",
       "packagesPath": "C:\\Users\\jmach\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\obj\\",
+      "outputPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.EFCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jmach\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2767,8 +2767,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj": {
-              "projectPath": "c:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj"
+            "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj": {
+              "projectPath": "C:\\Users\\jmach\\OneDrive\\Documents\\UTFPR\\TDS\\ControleEstoque\\ControleEstoque.Model\\ControleEstoque.Model.csproj"
             }
           }
         }
